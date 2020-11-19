@@ -49,7 +49,8 @@ export default {
     group: null,
     routes: [
               {path: 'food', name: 'Foods', icon: 'mdi-food'},
-              {path: 'drink', name: 'Drinks', icon: 'mdi-glass-mug'}
+              {path: 'drink', name: 'Drinks', icon: 'mdi-glass-mug'},
+               {path: 'card', name: 'DrinkCard', icon: 'mdi-card-text-outline'},
             ]
   }),
 };
